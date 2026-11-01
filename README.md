@@ -7,3 +7,4 @@ I am interested in software development and building
 real-world technical solutions.
 
 Learning Python and Java
+Interested in artificial intelligence and software engineering
