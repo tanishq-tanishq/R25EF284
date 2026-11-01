@@ -9,3 +9,8 @@ real-world technical solutions.
 Learning Python and Java
 Interested in artificial intelligence and software engineering
 Goal: Secure a software engineering internship
+
+## Projects
+
+- Portfolio Website: A personal website to showcase my skills and projects.
+- Learning to build software applications using Python and Java.
