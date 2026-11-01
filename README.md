@@ -8,3 +8,4 @@ real-world technical solutions.
 
 Learning Python and Java
 Interested in artificial intelligence and software engineering
+Goal: Secure a software engineering internship
